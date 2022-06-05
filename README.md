@@ -1,1 +1,1 @@
-# rsschool-cv
+#  https://killzedr.github.io/rsschool-cv/

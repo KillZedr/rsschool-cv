@@ -1,1 +1,1 @@
-#  https://killzedr.github.io/rsschool-cv/
+#  https://github.com/KillZedr/rsschool-cv/blob/gh-pages/cv.md

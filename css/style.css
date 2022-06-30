@@ -45,7 +45,7 @@ table {
 
 body{position: relative;
     width: 100%;
-    background: url(./assets/bg.png) no-repeat center;
+    background: url(/assets/bg.png) no-repeat center;
     background-size: cover;
     }
 button{cursor: pointer;}
